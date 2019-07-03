@@ -1,0 +1,15 @@
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\obj\Debug\AmazonWebAppAutomation.csproj.CoreCompileInputs.cache
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\NLog.config
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\AmazonWebAppAutomation.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\AmazonWebAppAutomation.pdb
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\NLog.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\WebDriver.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\NLog.xml
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\WebDriver.xml
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\obj\Debug\AmazonWebAppAutomation.csproj.CopyComplete
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\obj\Debug\AmazonWebAppAutomation.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\obj\Debug\AmazonWebAppAutomation.pdb
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\AmazonWebAppAutomation\obj\Debug\AmazonWebAppAutomation.csprojAssemblyReference.cache

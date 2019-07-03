@@ -1,0 +1,12 @@
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\AmazonWebApp.Tests.deps.json
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\AmazonWebApp.Tests.runtimeconfig.json
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\AmazonWebApp.Tests.runtimeconfig.dev.json
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\AmazonWebApp.Tests.dll
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\obj\Debug\netcoreapp2.1\AmazonWebApp.Tests.csprojAssemblyReference.cache
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\obj\Debug\netcoreapp2.1\AmazonWebApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\obj\Debug\netcoreapp2.1\AmazonWebApp.Tests.AssemblyInfoInputs.cache
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\obj\Debug\netcoreapp2.1\AmazonWebApp.Tests.AssemblyInfo.cs
+C:\Users\fxb1962\source\repos\AmazonWebAppAutomation\UnitTestProject1\bin\Debug\netcoreapp2.1\NLog.config
